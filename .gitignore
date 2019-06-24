@@ -105,3 +105,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Clustering/kmeans/mvnw.cmd
+Clustering/kmeans/mvnw
+MavenWrapperDownloader.java
+maven-wrapper.jar
+maven-wrapper.properties
