@@ -111,3 +111,7 @@ MavenWrapperDownloader.java
 maven-wrapper.jar
 maven-wrapper.properties
 Toolkit/mytree
+nlp/ner-stanford/date
+nlp/ner-stanford/data/kaggle
+nlp/ner-stanford/data/small
+nlp/ner-stanford/experiments/base_model/
